@@ -1,4 +1,4 @@
-## Olá! óla! Bem vindo ao meu perfil GitHub 👋
+## Olá! Olá! Bem vindo ao meu perfil GitHub 👋
 #### Me chamo Elton, tenho 28 anos e moro em Santo André-SP
 
 - Atualmente estou estudando programação
