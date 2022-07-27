@@ -16,7 +16,6 @@
 
 <div>
 <a href="https://github.com/EltonPrado">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EltonPrado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=fff9e5&title_color=164a4a
-/>
-<img height="180em" width="455em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EltonPrado&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EltonPrado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=fff9e5/>
+<img height="180em" width="455em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EltonPrado&layout=compact&langs_count=7&theme=tokyonight&bg_color=fff9e5"/>
 </div>
