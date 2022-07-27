@@ -20,5 +20,3 @@
  
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EltonPrado&layout=compact&langs_count=7&theme=tokyonight&bg_color=fdfbe7&title_color=2f6464&text_color=759797"/>
 </div>
-
- ![Snake animation](https://github.com/EltonPrado/EltonPrado/blob/output/github-contribution-grid-snake.svg)
