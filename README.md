@@ -1,8 +1,8 @@
 
 <img align="right" width="350px" src="https://i.imgur.com/OE4MT75.gif">
 
-## Olá! Olá! Bem vindo ao meu perfil GitHub 👋
-#### **Me chamo Elton, tenho 28 anos e moro em Santo André-SP**
+<h1> Olá! Olá! Bem vindo ao meu perfil GitHub 👋</h1>
+<h4><strong>Me chamo Elton, tenho 28 anos e moro em Santo André-SP</strong></h4>
 
 - Arquiteto em transição de carreira
 - Atualmente estou estudando programação na [Rocketseat](https://github.com/Rocketseat)
@@ -26,4 +26,5 @@
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EltonPrado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=fdfbe7&icon_color=f59fa0&title_color=2f6464&text_color=759797"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EltonPrado&layout=compact&langs_count=7&theme=tokyonight&bg_color=fdfbe7&icon_color=f59fa0&title_color=2f6464&text_color=759797"/>
+</a>
 </div>
