@@ -1,5 +1,5 @@
 
-<img align="right" width="360px" src="https://i.imgur.com/OE4MT75.gif">
+<img align="right" width="350px" src="https://i.imgur.com/OE4MT75.gif">
 
 ## Olá! Olá! Bem vindo ao meu perfil GitHub 👋
 #### **Me chamo Elton, tenho 28 anos e moro em Santo André-SP**
