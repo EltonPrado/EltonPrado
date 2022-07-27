@@ -7,7 +7,7 @@
 - Arquiteto em transição de carreira
 - Atualmente estou estudando programação na [Rocketseat](https://github.com/Rocketseat)
 
-#### Ferramentas e Tecnologias sendo estudadas
+<h4><strong>Ferramentas e Tecnologias sendo estudadas</strong></h4>
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" heigth="30"/>
