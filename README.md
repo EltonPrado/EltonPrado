@@ -2,7 +2,7 @@
 <img align="right" width="350px" src="https://i.imgur.com/OE4MT75.gif">
 
 <h1> Olá! Olá! Seja bem vindo 👋</h1>
-<h4><strong>Me chamo Elton, tenho 28 anos e moro em Santo André-SP</strong></h4>
+<h4><strong>Me chamo Elton, tenho 29 anos e moro em Santo André-SP</strong></h4>
 
 - Arquiteto em transição de carreira
 - Atualmente estudo programação na [Rocketseat](https://github.com/Rocketseat)
