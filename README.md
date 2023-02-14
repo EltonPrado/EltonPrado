@@ -4,7 +4,7 @@
 <h1> Olá! Olá! Seja bem vindo 👋</h1>
 <h4><strong>Me chamo Elton, tenho 29 anos e moro em Santo André-SP</strong></h4>
 
-- Arquiteto em transição de carreira
+- Arquiteto que transitou de carreira para a área da tecnologia
 - Atualmente estudo programação na [Rocketseat](https://github.com/Rocketseat)
 
 <h4><strong>Ferramentas e Tecnologias sendo estudadas</strong></h4>
