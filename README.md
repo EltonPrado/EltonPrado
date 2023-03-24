@@ -5,7 +5,7 @@
 <h4><strong>Me chamo Elton, tenho 29 anos e moro em Santo André-SP</strong></h4>
 
 - Arquiteto que transitou de carreira para a área da tecnologia
-- Atualmente estudo programação na [Rocketseat](https://github.com/Rocketseat)
+- Atualmente estudo programação na [Rocketseat](https://rocketseat.com.br)
 
 <h4><strong>Ferramentas e Tecnologias sendo estudadas</strong></h4>
 
