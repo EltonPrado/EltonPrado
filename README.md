@@ -4,7 +4,7 @@
 - Arquiteto que transitou de carreira para a área da tecnologia
 - Estudo programação na [Rocketseat](https://rocketseat.com.br)
 
-<h4><strong>Ferramentas e Tecnologias sendo estudadas</strong></h4>
+<h4><strong>Ferramentas e Tecnologias</strong></h4>
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" heigth="30"/>
