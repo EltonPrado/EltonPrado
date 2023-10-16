@@ -46,8 +46,8 @@ Tenho interesse
 <a href="https://github.com/EltonPrado">
 <img 
   height="130em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EltonPrado&layout=compact&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=eltonprado&show_icons=true&theme=transparent" />
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EltonPrado&layout=compact&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&title_color=F1EFEF"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=eltonprado&show_icons=true&theme=transparent&title_color=F1EFEF" />
 </a>
 </div>
 
