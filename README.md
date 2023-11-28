@@ -1,14 +1,19 @@
 <h1 align="center"> Olá! Olá! Seja bem vindo 👋</h1>
-<h4><strong>Me chamo Elton, tenho 30 anos e moro em Santo André-SP</strong></h4>
+<h3><strong>Me chamo Elton e aqui vai um resumo sobre mim: </strong></h3>
 
-- Arquiteto que transitou de carreira para a área da tecnologia
-- Estudo programação na [Rocketseat](https://rocketseat.com.br)
-- Nível de senioridade: Júnior
+- Arquiteto paulista que transitou de carreira para a área da tecnologia
+- Tenho por Hobbies: fotografia, filmes e series, livros e games.
+- Estudo programação pela [Rocketseat](https://rocketseat.com.br)
+  - Conclui o programa Explorer voltado a [desenvolvimento web FullStack](https://app.rocketseat.com.br/certificates/61de12de-aee0-4b49-8ca6-96274f405a58)
+  - Atualmente estudo através do programa Ignite voltado a especialização
+- **Nível de senioridade:** Júnior
+- **Interesse:** Front-end
 
 #
 
-<h4><strong>Ferramentas e Tecnologias</strong></h4>
-Tenho Experiência
+<h3><strong>Ferramentas e Tecnologias</strong></h3>
+
+**Tenho Experiência**
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" heigth="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="35" heigth="35"/>
@@ -20,7 +25,7 @@ Tenho Experiência
 
 ###
 
-Estou estudando
+**Estou estudando**
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" heigth="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" heigth="35"/>
@@ -32,7 +37,7 @@ Estou estudando
 
 ###
 
-Tenho interesse
+**Tenho interesse**
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" heigth="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" heigth="35"/>
@@ -42,6 +47,8 @@ Tenho interesse
 </div>
 
 ###
+
+**Estatísticas**
 
 <div align="left">
 <a href="https://github.com/EltonPrado">
@@ -54,7 +61,7 @@ Tenho interesse
 
 #
 
-<h4><strong>Contatos</h4></strong>
+<h3><strong>Contatos</strong></h3>
 
 <div>
   <a href="https://www.linkedin.com/in/elton-prado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
