@@ -13,7 +13,7 @@
 
 <h3><strong>Ferramentas e Tecnologias</strong></h3>
 
-**Tenho Experiência**
+**Tenho Conhecimento/ Experiência**
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" heigth="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" heigth="35"/>
