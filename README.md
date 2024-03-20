@@ -15,34 +15,33 @@
 
 **Tenho Conhecimento/ Experiência**
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" heigth="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" heigth="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="35" heigth="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="35" heigth="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" heigth="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" heigth="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" heigth="35"/>
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img heigth="300" width="300" src="https://skillicons.dev/icons?i=vscode,github,git,html,css,js,react,ts,nodejs,sqlite" />
+    </a>
+  </p>
 </div>
 
 ###
 
 **Estou estudando**
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" heigth="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" heigth="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" heigth="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" heigth="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35" heigth="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="35" heigth="35"/>
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img heigth="300" width="300" src="https://skillicons.dev/icons?i=figma,js,react,ts,nodejs,mysql,nextjs,vite" />
+    </a>
+  </p>
 </div>
 
 ###
 
 **Tenho interesse**
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" heigth="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" heigth="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="35" heigth="35"/>
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img heigth="150" width="150" src="https://skillicons.dev/icons?i=tailwind,py,cs,java" />
+    </a>
+  </p>
 </div>
 
 ###
