@@ -1,12 +1,13 @@
 <h1 align="center"> Olá! Olá! Seja bem vindo 👋</h1>
 <h3><strong>Me chamo Elton e aqui vai um resumo sobre mim: </strong></h3>
 
-- Arquiteto paulista que transitou de carreira para a área da tecnologia
-- Tenho por Hobbies: fotografia, filmes e series, livros e games.
-- Estudo programação pela [Rocketseat](https://rocketseat.com.br)
-  - Conclui o programa Explorer voltado a [desenvolvimento web FullStack](https://app.rocketseat.com.br/certificates/61de12de-aee0-4b49-8ca6-96274f405a58)
-  - Atualmente estudo através do programa Ignite voltado a especialização
-- **Nível de senioridade:** Júnior
+- Arquiteto paulista que transitou de carreira para a área da tecnologia;
+- Tenho por Hobbies: fotografia, filmes e series, livros e games;
+- Estudei programação pela [Rocketseat](https://rocketseat.com.br);
+  - Conclui o programa Explorer voltado a [desenvolvimento web FullStack](https://app.rocketseat.com.br/certificates/61de12de-aee0-4b49-8ca6-96274f405a58);
+  - Me especializei através do programa Ignite;
+  - Atualmente curso Análise e desenvolvimento de sistemas pela Universidade Anhembi Morumbi
+- **Nível de senioridade:** Estágiario/ Júnior
 - **Interesse:** Front-end
 
 #
