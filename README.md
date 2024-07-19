@@ -3,12 +3,11 @@
 
 - Arquiteto paulista que transitou de carreira para a área da tecnologia;
 - Tenho por Hobbies: fotografia, filmes e series, livros e games;
-- Estudei programação pela [Rocketseat](https://rocketseat.com.br);
-  - Conclui o programa Explorer voltado a [desenvolvimento web FullStack](https://app.rocketseat.com.br/certificates/61de12de-aee0-4b49-8ca6-96274f405a58);
-  - Me especializei através do programa Ignite;
-  - Atualmente curso Análise e desenvolvimento de sistemas pela Universidade Anhembi Morumbi
+- Atualmente curso Análise e desenvolvimento de sistemas pela Universidade Anhembi Morumbi
+  - Conclui o programa Explorer (atual formação full-stack) voltado a [desenvolvimento web FullStack](https://app.rocketseat.com.br/certificates/61de12de-aee0-4b49-8ca6-96274f405a58);
+  - Especialização das tecnologias React, React Native e NodeJS através do programa Ignite;
 - **Nível de senioridade:** Estágiario/ Júnior
-- **Interesse:** Front-end
+- **Interesse:** Front-end/ back-end
 
 #
 
