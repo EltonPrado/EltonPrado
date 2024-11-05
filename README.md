@@ -70,3 +70,20 @@ Fique à vontade para entrar em contato através das minhas redes:
   <a href = "mailto:eltonm.prado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/tonsprado/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+#
+
+<h3><strong>Nomes dos Repositórios</strong></h3>
+Abaixo uma legenda de como, foram adotados um padrão que organizar os projetos facilitando a leitura de cada um. Da seguinte forma:
+
+- **F**ormação**E**xplorer_**P**rojetoNumeração_NomeDoProjeto
+  - **FE_P01_NomeDoProjeto**
+
+- **E**specialização**I**gnite_**P**rojetoNumeração_NomeDoProjeto
+  - **EI_P01_NomeDoProjeto**
+
+- **P**rojeto**P**essoal_**P**rojetoNumeração_NomeDoProjeto
+  - **PP_P01_NomeDoProjeto**
+
+- **P**rojeto**E**ventos_**P**rojetoNumeração_NomeDoProjeto
+  - **PE_P01_NomeDoProjeto**
