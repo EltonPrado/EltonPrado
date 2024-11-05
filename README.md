@@ -74,7 +74,7 @@ Fique à vontade para entrar em contato através das minhas redes:
 #
 
 <h3><strong>Nomes dos Repositórios</strong></h3>
-Abaixo uma legenda de com o padrão adotado para organizar os projetos.
+Abaixo uma legenda do padrão adotado para organizar o nome dos projetos.
 
 - **F**ormação**E**xplorer_**P**rojetoNumeração_NomeDoProjeto
   - **FE_P01_NomeDoProjeto**
