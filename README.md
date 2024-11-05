@@ -57,9 +57,9 @@ Abaixo estão minhas redes. Fique à vontade para me chamar!
   </p>
 </div>
 
-###
+#
 
-**Estatísticas**
+<h3><strong>Estatísticas e Oranização</strong></h3>
 
 <div align="left">
 <a href="https://github.com/EltonPrado">
@@ -70,9 +70,10 @@ Abaixo estão minhas redes. Fique à vontade para me chamar!
 </a>
 </div>
 
-#
+###
 
-<h3><strong>Oranização dos Repositórios</strong></h3>
+**Organização dos Repositórios**
+
 Abaixo uma legenda do padrão adotado para organizar o nome dos repositórios.
 
 - **F**ormação**E**xplorer_**P**rojetoNumeração_NomeDoProjeto
