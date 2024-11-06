@@ -59,7 +59,7 @@ Abaixo estão minhas redes. Fique à vontade para me chamar!
 
 #
 
-<h3><strong>Estatísticas e Oranização</strong></h3>
+<h3><strong>Estatísticas e Organização</strong></h3>
 
 <div align="left">
 <a href="https://github.com/EltonPrado">
